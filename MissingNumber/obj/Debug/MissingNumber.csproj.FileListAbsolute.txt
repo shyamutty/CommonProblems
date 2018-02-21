@@ -1,0 +1,6 @@
+E:\Project\CommonProblems\MissingNumber\bin\Debug\MissingNumber.exe.config
+E:\Project\CommonProblems\MissingNumber\bin\Debug\MissingNumber.exe
+E:\Project\CommonProblems\MissingNumber\bin\Debug\MissingNumber.pdb
+E:\Project\CommonProblems\MissingNumber\obj\Debug\MissingNumber.csprojResolveAssemblyReference.cache
+E:\Project\CommonProblems\MissingNumber\obj\Debug\MissingNumber.exe
+E:\Project\CommonProblems\MissingNumber\obj\Debug\MissingNumber.pdb

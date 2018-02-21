@@ -1,0 +1,5 @@
+E:\Project\CommonProblems\Kadane\bin\Debug\Kadane.exe.config
+E:\Project\CommonProblems\Kadane\bin\Debug\Kadane.exe
+E:\Project\CommonProblems\Kadane\bin\Debug\Kadane.pdb
+E:\Project\CommonProblems\Kadane\obj\Debug\Kadane.exe
+E:\Project\CommonProblems\Kadane\obj\Debug\Kadane.pdb

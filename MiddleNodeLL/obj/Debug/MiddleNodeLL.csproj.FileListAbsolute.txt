@@ -1,0 +1,6 @@
+E:\Project\CommonProblems\MiddleNodeLL\bin\Debug\MiddleNodeLL.exe.config
+E:\Project\CommonProblems\MiddleNodeLL\bin\Debug\MiddleNodeLL.exe
+E:\Project\CommonProblems\MiddleNodeLL\bin\Debug\MiddleNodeLL.pdb
+E:\Project\CommonProblems\MiddleNodeLL\obj\Debug\MiddleNodeLL.csprojResolveAssemblyReference.cache
+E:\Project\CommonProblems\MiddleNodeLL\obj\Debug\MiddleNodeLL.exe
+E:\Project\CommonProblems\MiddleNodeLL\obj\Debug\MiddleNodeLL.pdb

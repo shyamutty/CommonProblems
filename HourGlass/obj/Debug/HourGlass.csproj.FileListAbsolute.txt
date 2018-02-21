@@ -1,0 +1,6 @@
+E:\Project\CommonProblems\HourGlass\bin\Debug\HourGlass.exe.config
+E:\Project\CommonProblems\HourGlass\bin\Debug\HourGlass.exe
+E:\Project\CommonProblems\HourGlass\bin\Debug\HourGlass.pdb
+E:\Project\CommonProblems\HourGlass\obj\Debug\HourGlass.csprojResolveAssemblyReference.cache
+E:\Project\CommonProblems\HourGlass\obj\Debug\HourGlass.exe
+E:\Project\CommonProblems\HourGlass\obj\Debug\HourGlass.pdb

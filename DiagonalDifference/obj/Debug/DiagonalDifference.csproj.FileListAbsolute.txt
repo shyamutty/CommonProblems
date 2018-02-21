@@ -1,0 +1,5 @@
+E:\Project\CommonProblems\DiagonalDifference\bin\Debug\DiagonalDifference.exe.config
+E:\Project\CommonProblems\DiagonalDifference\bin\Debug\DiagonalDifference.exe
+E:\Project\CommonProblems\DiagonalDifference\bin\Debug\DiagonalDifference.pdb
+E:\Project\CommonProblems\DiagonalDifference\obj\Debug\DiagonalDifference.exe
+E:\Project\CommonProblems\DiagonalDifference\obj\Debug\DiagonalDifference.pdb

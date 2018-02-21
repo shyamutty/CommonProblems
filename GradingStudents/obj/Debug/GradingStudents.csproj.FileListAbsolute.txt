@@ -1,0 +1,6 @@
+E:\Project\CommonProblems\GradingStudents\bin\Debug\GradingStudents.exe.config
+E:\Project\CommonProblems\GradingStudents\bin\Debug\GradingStudents.exe
+E:\Project\CommonProblems\GradingStudents\bin\Debug\GradingStudents.pdb
+E:\Project\CommonProblems\GradingStudents\obj\Debug\GradingStudents.csprojResolveAssemblyReference.cache
+E:\Project\CommonProblems\GradingStudents\obj\Debug\GradingStudents.exe
+E:\Project\CommonProblems\GradingStudents\obj\Debug\GradingStudents.pdb
