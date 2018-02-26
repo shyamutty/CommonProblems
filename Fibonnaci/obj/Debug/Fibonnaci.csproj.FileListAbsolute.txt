@@ -1,5 +1,4 @@
 E:\Project\CommonProblems\Fibonnaci\bin\Debug\Fibonnaci.exe.config
-E:\Project\CommonProblems\Fibonnaci\obj\Debug\Fibonnaci.csprojResolveAssemblyReference.cache
 E:\Project\CommonProblems\Fibonnaci\bin\Debug\Fibonnaci.exe
 E:\Project\CommonProblems\Fibonnaci\bin\Debug\Fibonnaci.pdb
 E:\Project\CommonProblems\Fibonnaci\obj\Debug\Fibonnaci.exe

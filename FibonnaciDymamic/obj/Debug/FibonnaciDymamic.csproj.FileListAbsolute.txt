@@ -1,6 +1,5 @@
 E:\Project\CommonProblems\FibonnaciDymamic\bin\Debug\FibonnaciDymamic.exe.config
 E:\Project\CommonProblems\FibonnaciDymamic\bin\Debug\FibonnaciDymamic.exe
 E:\Project\CommonProblems\FibonnaciDymamic\bin\Debug\FibonnaciDymamic.pdb
-E:\Project\CommonProblems\FibonnaciDymamic\obj\Debug\FibonnaciDymamic.csprojResolveAssemblyReference.cache
 E:\Project\CommonProblems\FibonnaciDymamic\obj\Debug\FibonnaciDymamic.exe
 E:\Project\CommonProblems\FibonnaciDymamic\obj\Debug\FibonnaciDymamic.pdb
