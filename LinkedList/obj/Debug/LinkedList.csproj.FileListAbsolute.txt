@@ -3,3 +3,4 @@ E:\Project\CommonProblems\LinkedList\bin\Debug\LinkedList.exe
 E:\Project\CommonProblems\LinkedList\bin\Debug\LinkedList.pdb
 E:\Project\CommonProblems\LinkedList\obj\Debug\LinkedList.exe
 E:\Project\CommonProblems\LinkedList\obj\Debug\LinkedList.pdb
+E:\Project\CommonProblems\LinkedList\obj\Debug\LinkedList.csprojResolveAssemblyReference.cache

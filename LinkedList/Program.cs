@@ -18,19 +18,19 @@ namespace LinkedList
             list.append(50);
             list.append(60);
 
-            list.print();
+            list.Print();
 
             Console.WriteLine("Prepend 5");
 
             list.prepend(5);
 
-            list.print();
+            list.Print();
 
             Console.WriteLine("Delete 40");
 
             list.deleteWithValue(40);
 
-            list.print();
+            list.Print();
 
             Console.ReadKey();
         }
@@ -38,9 +38,9 @@ namespace LinkedList
 
     public class Node
     {
-        public Node next;
         public int data;
-
+        public Node next;
+        
         public Node(int data)
         {
             this.data = data;
@@ -94,14 +94,13 @@ namespace LinkedList
             }
         }
 
-        public void print()
+        public void Print()
         {
             Node current = head;
-            Console.WriteLine(current.data);
-            while (current.next != null)
+            while (current != null)
             {
-                current = current.next;
                 Console.WriteLine(current.data);
+                current = current.next;
                 
             }
         }
